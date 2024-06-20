@@ -1,0 +1,23 @@
+{
+  "name": "d38c2",
+  "version": "1.0.0",
+  "description": "This is a backend application that provides a RESTful API examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharath-NB/NodeJsPractice.git"
+  },
+  "author": "Bharath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharath-NB/NodeJsPractice/issues"
+  },
+  "homepage": "https://github.com/Bharath-NB/NodeJsPractice#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
